@@ -32,7 +32,8 @@ Please use the following data structures and types for binary trees. Don’t for
 
 ### Basic Binary Tree
 
-```/**
+```
+/**
  * struct binary_tree_s - Binary tree node
  *
  * @n: Integer stored in the node
